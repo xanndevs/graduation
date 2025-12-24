@@ -1,23 +1,23 @@
 .bing{
-    color: blue;
-    font-weight: bold;
-    text-decoration: underline;
+    color: blue !important;
+    font-weight: bold !important;
+    text-decoration: underline !important;
 
 }
 
 .bong{
-    color: red;
-    font-style: italic;
+    color: red !important;
+    font-style: italic !important;
 }
 
 #bing{
-    color: blue;
-    font-weight: bold;
-    text-decoration: underline;
+    color: blue !important;
+    font-weight: bold !important;
+    text-decoration: underline !important;
 
 }
 
 #bong{
-    color: red;
-    font-style: italic;
+    color: red !important;
+    font-style: italic !important;
 }
